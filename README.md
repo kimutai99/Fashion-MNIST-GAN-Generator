@@ -22,7 +22,7 @@ FashionGAN is a deep learning project that demonstrates how Generative Adversari
 - [Output](#output)
 - [Performance Tips](#performance-tips)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Author](#Author)
 
 ---
 
